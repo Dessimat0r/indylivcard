@@ -2,7 +2,7 @@
 Outputs all the Independent Liverpool card offers shown on the website, since the website is slow to navigate to work out if an establishment you go to has a particular offer on.
 
 ## Installation/Usage
-`java indylivcard.jar` (export fat jar to indylivcard.jar or use included)
+`java indylivcard.jar` (export fat jar to `indylivcard.jar` or use included (may not be latest..))
 
 ## Support
 * Everything that Java works on.
