@@ -8,7 +8,7 @@ java indylivcard.jar (export fat jar to indylivcard.jar or use included)
 * Everything that Java works on.
 
 ## Example output
-Esteban: 10% off total bill (not to be used in conjunction with any other offer)
+```Esteban: 10% off total bill (not to be used in conjunction with any other offer)
 Shiverpool: 20% off all
 Miyagi: 10% off A La Carte
 Cheese & Co: 10% off all times
@@ -108,5 +108,5 @@ Café Tabac: 10% off food
 Kasbah: 10% off the bill Sunday to Thursday
 Cuthbert’s Bakehouse: 15% off the bill (see details)
 81 Renshaw Street: 10% off the bill
-Sound, Food & Drink: £20 for two pizzas and a bottle of wine
+Sound, Food & Drink: £20 for two pizzas and a bottle of wine```
 Finished.
